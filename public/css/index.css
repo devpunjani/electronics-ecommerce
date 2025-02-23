@@ -1,0 +1,19 @@
+.nav-bar{
+    display:inline;
+}
+
+.hover-btn:hover,
+.hover-btn:focus,
+.hover-btn:active {
+	color: white;
+	box-shadow: none;
+}
+
+.li:hover a,
+.li:focus a {
+	color: #ffc221;
+}
+
+.li.active a {
+	color: #ffc221;
+}
